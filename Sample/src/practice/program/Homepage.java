@@ -4,7 +4,7 @@ public class Homepage {
 	
 	public void keli() {
 		
-		System.out.println("ok");
+		System.out.println("ok home");
 	}
 
 }
