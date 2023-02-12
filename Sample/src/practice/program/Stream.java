@@ -17,7 +17,7 @@ String [] ar = new String[fd.length()];
 		}
 		List<String> li= Arrays.asList(ar);
 		String vw = "aeiou";
-		li.stream().filter(s -> s.equals("a"||"e"||"i"||"o"||"u")).forEach(System.out.println(s));
+		
 	}
 
 }
