@@ -15,8 +15,7 @@ String [] ar = new String[fd.length()];
 			ju = ju+ fd.charAt(i);
 			ar[i]= ju;
 		}
-		List<String> li= Arrays.asList(ar);
-		String vw = "aeiou";
+	System.out.println
 		
 	}
 
